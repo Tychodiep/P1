@@ -208,12 +208,14 @@ header img{
 }
 
 footer{
-    margin-top: 40px;
+    margin-top: 60px;
+    position: relative;
     font-size: 7pt;
     border: solid;
     background-color: rgb(242, 242, 242);
     display: flex;
     justify-content: space-between;
+    width: 100%;
 }
 
 footer p{
@@ -258,6 +260,7 @@ footer p{
     padding: 0;
 }
 .article-slide{
+    margin-top: 50px;
     height: 330px;
     display: flex;
     justify-content: center;
