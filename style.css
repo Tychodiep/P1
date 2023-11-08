@@ -34,7 +34,7 @@ ul{
 li{
     box-shadow: 5px 5px rgb(60,23,13);
     background-color: white;
-    border: solid;
+    border: solid 1px;
     width: 68px;
     height: 20px;
 }
@@ -44,7 +44,7 @@ li a{
     color: black;
     font-family: Dido;   
     font-size: 8pt;
-    padding: 3pt;
+    padding: 4pt;
 
 
 }
@@ -108,13 +108,11 @@ header img{
 }
 
 .vierkant1{
-    border: solid;
     margin-left: 20px;
     float: left;
     width: 165px;
     height: 122px;
     display: flex;
-    border: solid;
     background-color: rgb(140,99,74);
 }
 
@@ -197,7 +195,7 @@ header img{
 .p2 a{
     text-decoration: none;
     color: black;
-    border: solid;
+    border: solid 1px;
     padding: 1px;
     box-shadow: 1.5px 1.5px rgb(60,23,13);
 }
