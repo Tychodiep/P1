@@ -13,7 +13,7 @@ header{
     margin-top: 2em;
 }
 
-nav{
+header nav{
     width: 70%;
     height: 50px;
     border: solid;
@@ -23,7 +23,7 @@ nav{
     justify-content: space-around;
 }
 
-ul{
+nav ul{
     list-style-type: none;
     display: flex;
     align-items: center;
@@ -31,7 +31,7 @@ ul{
     width: 170px;
 }
 
-li{
+nav ul li{
     box-shadow: 5px 5px rgb(60,23,13);
     background-color: white;
     border: solid 1px;
@@ -39,7 +39,7 @@ li{
     height: 20px;
 }
 
-li a{
+nav ul li a{
     text-decoration: none;
     color: black;
     font-family: Dido;   
@@ -209,7 +209,6 @@ header img{
 
 footer{
     margin-top: 60px;
-    position: relative;
     font-size: 7pt;
     border: solid;
     background-color: rgb(242, 242, 242);
@@ -218,7 +217,8 @@ footer{
     width: 100%;
 }
 
-footer p{
+footer ul{
+    list-style-type: none;
     width: 104px;
     margin: 5px;
 }
