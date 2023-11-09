@@ -61,7 +61,7 @@ header img{
     font-family:didot;
     font-size: 20pt;
     margin-bottom: 15px;
-    margin-top: 40px;
+    margin-top: 25px;
 }
 
 .h2-links{
@@ -206,7 +206,6 @@ header img{
 }
 
 footer{
-    margin-top: 60px;
     font-size: 7pt;
     border: solid;
     background-color: rgb(242, 242, 242);
@@ -224,6 +223,7 @@ footer ul{
 /*pagina2*/
 
 .block1-page2{
+    margin-top: 15px;
     border: solid;
     border-radius: 8px;
     background-color: rgb(191,151,128);
@@ -232,9 +232,6 @@ footer ul{
 .box1-page2{
     margin: 10px;
     padding: 5px;
-    border: solid;
-    background-color: white;
-    font-size: 8pt;
 }
 
 .block2-page2{
@@ -246,9 +243,6 @@ footer ul{
 .box2-page2{
     margin: 10px;
     padding: 5px;
-    border: solid;
-    background-color: white;
-    font-size: 8pt;
 }
 
 /*pagina3*/
@@ -263,6 +257,7 @@ footer ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 60px;
 }
 .slider{
     position: relative;
