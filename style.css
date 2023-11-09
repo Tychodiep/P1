@@ -17,7 +17,7 @@ header nav{
     width: 70%;
     height: 50px;
     border: solid;
-    border-width: 0,5pt;
+    border-width: 0.5pt;
     background-color: rgb(242, 242, 242);
     display: flex;
     justify-content: space-around;
